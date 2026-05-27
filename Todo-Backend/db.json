@@ -1,0 +1,13 @@
+{
+  "todos": [
+    {
+      "id": "zHwsSOj5cWw",
+      "title": "kalp"
+    },
+    {
+      "title": "a",
+      "id": "RkVjJGO-5lc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
