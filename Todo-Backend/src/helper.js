@@ -1,5 +1,4 @@
-const PORT = window.location.port === "3000" ? "5000" : "5000";
-const API_URL = `http://localhost:${PORT}/todos`;
+const API_URL = "http://localhost:3000/todos";
 
 export const getTodos = async () => {
   let res = await fetch(API_URL, {
